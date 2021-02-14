@@ -1,6 +1,7 @@
 #Expense Tracker
 
-##Introduction
+##Introduction: 
+
 Python application to have a personal expense tracker
 The program has options to create multiple wallets that are recorded in an Excel file
 When the program is run, if no excel file called  "My_Wallets.xlsx", the program automatically creates the file and 
@@ -8,7 +9,8 @@ stores all information in the file.
 The program uses openpyxl to handle data management through Excel. As well as basic line and bar charts from matplot
 to show the progress of your spendings
 
-##Things it can do
+##Things it can do: 
+ 
 The program has an interface that allows you to select an already created wallet or create a new wallet.
 When creating the wallet, you are able to specify the currency and the total amount.
 Once the wallet is selected, you are able to add spendings and earnings that are recorded in the Excel file. 
